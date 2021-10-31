@@ -10,7 +10,7 @@ $('.page-scroll').on('click', function(e) {
     }, 1250, 'easeInOutExpo');
 
     e.preventDefault();
-    });
+    }); 
 
 
 
